@@ -1,1 +1,1 @@
-# agrotracks-releases
+Usado para almacenar y generar los releases de descarga del app agrotracks-releases
