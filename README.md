@@ -16,6 +16,9 @@ Puedes descargar la versión más reciente de la aplicación desde los siguiente
 - **APK Supabase**  
   https://github.com/awsalcedo/agrotracks-releases/releases/latest/download/agrotrackmobile-supabase-release.apk
 
+- **APK Palmarof**  
+  https://github.com/awsalcedo/agrotracks-releases/releases/latest/download/agrotrackmobile-palmarof-release.apk
+
 ### 📌 Nota
 
 - Estos enlaces siempre apuntan al **último release disponible (Latest)**.
